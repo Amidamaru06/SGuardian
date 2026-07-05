@@ -1,4 +1,4 @@
-#SGuardian
+## SGuardian
 
 Protects older adults from AI-driven fraud scam texts, phishing links, and deepfakes. 
 Runs locally on a Raspberry Pi 5 using Phi-4 Mini. No cloud. No cost.
